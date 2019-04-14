@@ -1,11 +1,4 @@
 This is for testing perpose only
 
-<<<<<<< HEAD
-I have edited anither line. Added this new line on 14th April
-=======
 
-
-Line edited. This is the latest
-and I shoud see this when mearged
-
->>>>>>> sprint2
+made this change only
